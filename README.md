@@ -11,6 +11,14 @@ This project builds a cloud-based ETL pipeline to:
 - Enable SQL-based analytical queries
 The solution was implemented using Google Cloud services and Python-based ETL workflows.
 
+**Workflow**
+
+- Source data collected from weather datasets and DC moving violation datasets.
+- Python ETL pipeline executed on Google Compute Engine VM.
+- Data cleaned and transformed using Python.
+- Processed datasets loaded into Google Cloud SQL (MySQL).
+- SQL queries executed for analytics and insights.
+
 **Architecture Overview:**\
 The project architecture consists of four primary layers:
 
