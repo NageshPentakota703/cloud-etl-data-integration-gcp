@@ -100,10 +100,10 @@ The SQL queries used for these analyses are available in the /sql folder.
 
 **Screenshots:**
 
-<img width="1248" height="1002" alt="image" src="https://github.com/user-attachments/assets/b2b9d355-70f5-476e-a061-96a6e7956772" />
-<img width="1248" height="714" alt="image" src="https://github.com/user-attachments/assets/759dd2f8-5d81-4cec-8b47-35d437bb62c7" />
-<img width="2172" height="1300" alt="image" src="https://github.com/user-attachments/assets/7c0d6bfc-73a4-4d7e-a360-2db1c404f758" />
-<img width="2176" height="1088" alt="image" src="https://github.com/user-attachments/assets/6f7b88d3-3a1b-4e01-b4d3-fe7f5a51aafd" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/b2b9d355-70f5-476e-a061-96a6e7956772" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/759dd2f8-5d81-4cec-8b47-35d437bb62c7" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/7c0d6bfc-73a4-4d7e-a360-2db1c404f758" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/6f7b88d3-3a1b-4e01-b4d3-fe7f5a51aafd" />
 
 
 **Key Learning Outcomes:**
