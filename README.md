@@ -108,16 +108,16 @@ The SQL queries used for these analyses are available in the /sql folder.
 
 **Screenshots:**
 
-- *VM Machine*
+- *Compute Engine VM Machine*
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/b2b9d355-70f5-476e-a061-96a6e7956772" />
 
-- *Transforming & Loading the Data into Google Cloud SQL ( MySql )*
+- *ETL Execution and Load to Cloud SQL*
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/759dd2f8-5d81-4cec-8b47-35d437bb62c7" />
 
-- *SQL Query Performed in MySql*
+- *Sample SQL Analysis Output*
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/7c0d6bfc-73a4-4d7e-a360-2db1c404f758" />
 
-- *SQL Query Performed in MySql*
+- *Sample SQL Analysis Output*
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/6f7b88d3-3a1b-4e01-b4d3-fe7f5a51aafd" />
 
 **Key Learning Outcomes:**
